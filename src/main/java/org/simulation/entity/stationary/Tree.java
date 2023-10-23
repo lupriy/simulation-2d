@@ -1,4 +1,6 @@
 package org.simulation.entity.stationary;
 
-public class Tree {
+import org.simulation.entity.Entity;
+
+public class Tree extends Entity {
 }
