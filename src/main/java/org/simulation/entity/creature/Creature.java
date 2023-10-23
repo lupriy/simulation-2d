@@ -1,4 +1,10 @@
 package org.simulation.entity.creature;
 
-public class Creature {
+import org.simulation.entity.Entity;
+
+public abstract class Creature extends Entity {
+    int hp;
+    int speed;
+
+    public abstract void makeMove();
 }

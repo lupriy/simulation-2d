@@ -1,4 +1,4 @@
 package org.simulation.entity;
 
-public class Grass {
+public class Grass extends Entity{
 }

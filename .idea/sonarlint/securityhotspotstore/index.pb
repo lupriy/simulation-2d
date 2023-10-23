@@ -17,3 +17,12 @@ n
 >src/main/java/org/simulation/entity/stationary/Stationary.java,5\a\5ad5f29634161741cd5048a1a41488394dfdc8e4
 h
 8src/main/java/org/simulation/entity/stationary/Tree.java,c\1\c106bea80778e64b8cbbc452636eab7810bbc276
+A
+simulation-2d.iml,c\8\c860ef5b4bdde434d5d94902f11c7f954335ebb2
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+_
+/src/main/java/org/simulation/action/Action.java,9\3\933edf444e134f357753637a0cb477036b6388d4

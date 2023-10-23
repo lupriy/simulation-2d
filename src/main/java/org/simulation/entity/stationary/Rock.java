@@ -1,4 +1,6 @@
 package org.simulation.entity.stationary;
 
-public class Rock {
+import org.simulation.entity.Entity;
+
+public class Rock  extends Entity {
 }

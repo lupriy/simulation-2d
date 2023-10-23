@@ -1,4 +1,4 @@
 package org.simulation.entity;
 
-public class Entity {
+public abstract class Entity {
 }
