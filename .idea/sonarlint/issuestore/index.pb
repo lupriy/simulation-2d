@@ -26,3 +26,17 @@ A
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 _
 /src/main/java/org/simulation/action/Action.java,9\3\933edf444e134f357753637a0cb477036b6388d4
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Z
+*src/main/java/org/simulation/Renderer.java,e\d\ed1e2bea8e8b365dce7cd0f877442e333ef74bb6
+]
+-src/main/java/org/simulation/Coordinates.java,5\a\5a8190542a51f2780ea9a1e19b609d57f5e4d61f
+^
+.src/main/java/org/simulation/entity/Grass.java,8\3\83010d6d3ff325bf957525d1d4e12682e0359867
+c
+3src/main/java/org/simulation/action/InitAction.java,0\8\0842e14abcf954edafef74afbca2f22442aa8ffd
+U
+%src/main/java/org/simulation/Map.java,a\8\a8d12c4601256b1d233dfdceeb26049b46972bee
+_
+/src/main/java/org/simulation/entity/Entity.java,d\2\d2793027a504917c24191a513027b17d8e03e517
