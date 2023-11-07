@@ -1,7 +1,7 @@
 # simulation-2d
 
 
-
+![изображение_2023-11-07_152317683](изображение_2023-11-07_152317683)
 # Overview
 
 The point of the project is a step-by-step simulation of a 2D world populated by herbivores and predators. In addition
