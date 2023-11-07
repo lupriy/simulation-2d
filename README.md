@@ -1,14 +1,13 @@
 # simulation-2d
 
 
-![изображение_2023-11-07_152317683](изображение_2023-11-07_152317683)
 # Overview
 
 The point of the project is a step-by-step simulation of a 2D world populated by herbivores and predators. In addition
 to creatures, the world contains resources (grass), which the herbivores feed on, and static objects with which you
 can't interact - they just fill the space.
 
-
+![Screen](https://github.com/lupriy/simulation-2d/blob/main/изображение_2023-11-07_152317683.png)
 
 ### Implemented features:
 
