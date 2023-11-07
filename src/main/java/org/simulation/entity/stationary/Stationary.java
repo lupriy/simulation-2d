@@ -1,4 +1,6 @@
 package org.simulation.entity.stationary;
 
-public class Stationary {
+import org.simulation.entity.Entity;
+
+public abstract class Stationary extends Entity {
 }

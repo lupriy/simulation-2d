@@ -1,25 +1,21 @@
 package org.simulation.entity.stationary;
 
 import org.simulation.Coordinates;
-import org.simulation.entity.Entity;
 
-public class Rock extends Entity {
+public class Web extends Stationary {
     private final Coordinates coordinates;
 
-    public Rock(Coordinates coordinates) {
+    public Web(Coordinates coordinates) {
         this.coordinates = coordinates;
     }
 
-    public Rock() {
+    public Web() {
         this.coordinates = new Coordinates();
     }
 
-    public Coordinates getCoordinates() {
-        return coordinates;
-    }
 
     @Override
     public String toString() {
-        return "R";
+        return "\uD83D\uDD78\uFE0F";
     }
 }

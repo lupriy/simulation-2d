@@ -2,9 +2,7 @@ package org.simulation.entity;
 
 import org.simulation.Coordinates;
 
-public class Ground {
-    private Coordinates coordinates;
-
+public class Ground extends Entity {
     public Ground(Coordinates coordinates) {
         this.coordinates = coordinates;
     }
@@ -13,12 +11,8 @@ public class Ground {
         this.coordinates = new Coordinates();
     }
 
-    public Coordinates getCoordinates() {
-        return coordinates;
-    }
-
     @Override
     public String toString() {
-        return "G";
+        return "\uD83D\uDFEB";
     }
 }
